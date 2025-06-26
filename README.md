@@ -43,6 +43,18 @@
 
 
 
+### 📡 Embedded & IoT
+
+<p align="center">
+  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white">
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white">
+  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white">
+  <img alt="ESP32" src="https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=esphome&logoColor=white">
+  <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white">
+</p>
+
+
+
 ### 🛠️ Tools & Environment
 
 <p align="center">
