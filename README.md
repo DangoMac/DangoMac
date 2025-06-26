@@ -1,4 +1,11 @@
 ## Hi there 👋
+<p align="center">
+  <a href="mailto:dungmachoo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-c14438.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
+</p>
+
+![st,small,507x507-pad,600x600,f8f8f8](https://github.com/user-attachments/assets/9887b4b4-b8a6-443f-88a3-d90da7a0c7fd)
+
+
 
 <!--
 **DangoMac/DangoMac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
