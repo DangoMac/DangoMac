@@ -5,7 +5,7 @@
   </a>
 </p>
 
-<img align="right" src="https://github.com/user-attachments/assets/64b756e6-85ce-45dd-a14f-e1125fdf7786" width="250" />
+<img align="right" src="https://github.com/user-attachments/assets/64b756e6-85ce-45dd-a14f-e1125fdf7786" width="300" />
 
 ### Tech Stacks ⚙️
 
