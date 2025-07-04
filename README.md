@@ -64,3 +64,11 @@
   <img alt="LANTA Supercomputer" src="https://img.shields.io/badge/LANTA-HPC-blueviolet?style=flat-square&logo=server&logoColor=white">
 </p>
 
+<p align="center">
+  <img width="38%" src="https://github-readme-stats.vercel.app/api?username=DangoMac&count_private=true&show_icons=true&theme=dark&hide_rank=true" alt="DangoMac GitHub Stats" />
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DangoMac&layout=compact&theme=dark&langs_count=6" alt="DangoMac Top Languages" />
+</p>
+
+
+
+
