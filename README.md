@@ -3,7 +3,7 @@
   <a href="mailto:dungmachoo@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-c14438.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-</p>
+</p> 
 
 <img align="right" src="https://github.com/user-attachments/assets/64b756e6-85ce-45dd-a14f-e1125fdf7786" width="300" />
 
