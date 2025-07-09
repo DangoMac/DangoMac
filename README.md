@@ -68,13 +68,13 @@
   <img 
     src="https://github-readme-stats.vercel.app/api?username=DangoMac&count_private=true&show_icons=true&theme=dark"
     alt="DangoMac GitHub Stats"
-    width="45%" 
+    width="55%" 
     style="display: inline-block; vertical-align: top;" 
   />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=DangoMac&layout=compact&theme=dark&langs_count=6"
     alt="DangoMac Top Languages"
-    width="34%" 
+    width="42%" 
     style="display: inline-block; vertical-align: top;" 
   />
 </p>
